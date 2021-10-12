@@ -1,2 +1,2 @@
 # chatbotofmansun
-a chatbot imitate rock star on flask
+a flask based chatbot imitate a rock star 
